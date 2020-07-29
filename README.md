@@ -1,4 +1,6 @@
 # 🔥 AuroraDeauth
+[![Build](https://img.shields.io/badge/Supported_OS-Linux-green.svg)]()
+
 Features
  =
 - Deauth everyone on a specific Access Point
@@ -22,3 +24,9 @@ Dependencies will be installed when install.sh is ran.
     $ git clone https://github.com/AuroraError/AuroraDeauth 
     $ cd AuroraDeauth && sudo bash ./install.sh
     $ sudo bash AuroraDeauth.sh
+
+Copyright
+=
+AuroraDeauther is made with ❤️ by AuroraError
+
+Buy me a Coffee - BTC Address: bc1qatrnkd7as60nypmaaskwjad3c83thc598axy26
